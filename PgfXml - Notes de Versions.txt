@@ -1,0 +1,65 @@
+Xojo - Petite Gestion de Fiches XML PGF ;)
+***
+
+A Faire :
+Rajout de l'anniversaire
+Alerte anniversaire
+
+
+v.014 du 27/11/2019
+Ajout de la fonction Recherche (2 méthodes disponibles)
+
+V0.13 du 26/11/2019
+Ajout de l'intégration des Mails dans une ListBox
+
+V0.12 du 25/11/2019
+Ajout des champs "Pays" et "Remarques"
+
+V0.11 du 25/11/2019
+Ajout des champs "Code_Postal" et "Ville"
+
+V0.10 du 24/11/2019
+Création automatique du fichier Xml si pgf.xml n'est pas trouvé au démarrage de l'app.
+
+V0.09 du 24/11/2019
+Méthode permettant de supprimer une entrée de la ListBox
+
+V0.08 du 24/11/2019
+1ère version fonctionnelle
+Méthode permettant de créer une nouvelle entrée
+
+V0.07 du 23/11/2019
+Phases de Tests
+
+
+V0.06 du 23/11/2019
+Phases de test
+Ajout de Rue2
+
+
+V0.05 du 23/11/2019
+Phases de test
+
+V0.04 du 23//11/2019
+Phases de test
+Parsing et affichage des Données XML
+NOM et Prénom
+Rue1
+
+
+V0.03 du 23/11/2019
+Phases de test
+Parsing et affichage des Données XML
+NOM et Prénom
+
+V0.02 du 22/11/2019
+Phases de test
+Déplacement dans les noeuds Xml à la sélection de la Listbox
+
+V0.01 du 19/11/2019
+Phases de tests
+Création d'un fichier Xml
+Parsing d'un fichier Xml
+
+
+
