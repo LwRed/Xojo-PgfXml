@@ -5,6 +5,7 @@ Fonctionnalités :
 - Mac Os & Windows
 - DOM Xml
 - Gestion des Noeuds avec Attributs et Noeuds Simples
-- Gestion de Création de Fichier Xml
-- Gestion d'ajout, d'édition et de Suppression d'Entrée
+- Gestion de Création de Fiches Xml
+- Gestion d'ajout, d'édition et de Suppression de Fiches
+- Intégration d'un module de recherche de Fiches
 - Interface
