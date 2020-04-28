@@ -9,3 +9,5 @@ Fonctionnalités :
 - Gestion d'ajout, d'édition et de Suppression de Fiches
 - Intégration d'un module de recherche de Fiches
 - Interface
+
+<img src="MacOs.png" width="640">
