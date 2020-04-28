@@ -5,9 +5,12 @@ A Faire :
 Rajout de l'anniversaire
 Alerte anniversaire
 
+v.019 du 23/01/2020
+Ajout du Champ Telephone dans la base de Données
 
 v.014 du 27/11/2019
-Ajout de la fonction Recherche (2 méthodes disponibles)
+Ajout de la fonction Recherche (2 mehodes disponibles)
+Réorganisation du Code
 
 V0.13 du 26/11/2019
 Ajout de l'intégration des Mails dans une ListBox
