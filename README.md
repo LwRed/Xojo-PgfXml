@@ -17,6 +17,7 @@ Alerte anniversaire
 <img src="MacOs.png" width="640">
 Si vous aimez mes programmes, <a href="https://www.paypal.com/donate/?hosted_button_id=GY5LTDDPZ2HZG"> vous pouvez faire un don PayPal ;)</a>
 
+Historiques des Versions :
 
 v.019 du 23/01/2020
 Ajout du Champ Telephone dans la base de Donnees
